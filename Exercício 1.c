@@ -1,3 +1,8 @@
+#### Recebe um número inteiro N de valores a serem submetidos e a série de N números. Retorna os valores máximo e mínimo, a média, a mediana, 
+o desvio-padrão (populacional) dos valores. ####
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
